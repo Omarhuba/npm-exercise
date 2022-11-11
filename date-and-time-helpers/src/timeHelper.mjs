@@ -1,4 +1,5 @@
 const timeHelper = ({startDate, endDate}) => {
-	return 'November'
+	return 'August'
 }
 
+console.log(timeHelper({startDate: '2021-08-01', endDate: '2021-08-31'}));
